@@ -1,5 +1,5 @@
 import streamlit as st
-from supabase import create_client, Client
+from supabase import solicitudes_credito, Client
 
 # 🔐 Credenciales (pon las tuyas)
 SUPABASE_URL = "https://nrtgdkhlyueerektkofu.supabase.co"
